@@ -5,10 +5,8 @@
     ],
     "id": "did:web:alinavcl.github.io:AlinaVCL:alina2",
     "verificationMethod": [
-       
-        
         {
-            "id": "did:web:alinavcl.github.io:AlinaVCL:alina1#key-2",
+            "id": "did:web:alinavcl.github.io:AlinaVCL:alina2#key-2",
             "type": "JsonWebKey2020",
             "controller": "did:web:alinavcl.github.io:AlinaVCL:alina2",
             "publicKeyJwk": {
@@ -20,8 +18,6 @@
         }
     ],
     "publicKey": [
-        
-        
         {
             "id": "did:web:alinavcl.github.io:AlinaVCL:alina2#key-2",
             "type": "JsonWebKey2020",
